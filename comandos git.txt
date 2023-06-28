@@ -1,0 +1,5 @@
+git init = iniciar um repositorio 
+git status = ver o status do controle de versionamento 
+git add . = adicionar todos os arquivos ao controle de versionamento 
+git commit = criar versoes do codigo
+git push = enviar as alterações para o git hub
