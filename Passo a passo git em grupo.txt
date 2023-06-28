@@ -1,0 +1,9 @@
+1-git pull da branch principal
+2-gerar uma nova branch temporaria a partir da branch principal
+3-git checkout na branch temporaria
+4-trabalhar e adicionar novas funcionalidades na nova branch que criou
+5-finalizar o trabalho na branch temporaria
+6-git checkout na branch principal
+7-git pull na branch principal
+8-Mergiar(unir)o código da branch temporaria a branch principal(depois que testar)
+9-git push da branch principal
