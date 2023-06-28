@@ -9,4 +9,6 @@ git reflog = verificar historico de atualizações
 
 Comandos avançados(para trabalho em equipe)
 
+git reset --hard = navegar entre as versoes do codigo 
+
 
