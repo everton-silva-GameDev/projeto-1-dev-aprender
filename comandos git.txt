@@ -13,6 +13,8 @@ git reset --hard = navegar entre as versoes do codigo
 git branch = ver quais branch tem 
 git branch staging = criar uma branch para receber atualizações nao testadas
 git checkout (nome-da-branch) = mudar de branch 
+git pull = puxar atualizaçoes do servidor 
 git merge = unir o codigos das branch
+git checkout -b nome-da-branch (branch principal) = criar uma nova branch com base na branch principal  
 
 
