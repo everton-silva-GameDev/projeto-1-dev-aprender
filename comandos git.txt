@@ -3,12 +3,15 @@ Comandos iniciais do git
 git init = iniciar um repositorio 
 git status = ver o status do controle de versionamento 
 git add . = adicionar todos os arquivos ao controle de versionamento 
-git commit = criar versoes do codigo
+git commit -m "message" = criar versoes do codigo
 git push = enviar as alterações para o git hub
 git reflog = verificar historico de atualizações
 
 Comandos avançados(para trabalho em equipe)
 
 git reset --hard = navegar entre as versoes do codigo 
+git branch = ver quais branch tem 
+git branch staging = criar uma branch para receber atualizações nao testadas
+git checkout (nome-da-branch) = mudar de branch 
 
 
